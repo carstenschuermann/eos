@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "vote_enc": {
+      "R": "021102927fa346e3b1a6e81dbb899ffd7893b82c1fc2b5e846c10a71a52986c9b0",
+      "C": "03f6d6c33903b9c6ed517d7f5d72cb2f2036f88b02d8def3260ce0f7eabec17452"
+    },
+    "vote_part_dec": []
+  },
+  {
+    "vote_enc": {
+      "R": "02560971eeee7ee1da8893ef6ce5534d4c50e7eb12739d289213b5310517f3447c",
+      "C": "032f5207cb4752c7daa91c7cf0d835a1601e9b8ddfa692e8b92364f8753360bd51"
+    },
+    "vote_part_dec": []
+  }
+]
