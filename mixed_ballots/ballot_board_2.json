@@ -1,0 +1,58 @@
+[
+  {
+    "color_enc": {
+      "R": "02d6115a5fd6b6e45c78db4bfd160c96c7a1ec2775ac0e274a1ac06377a7d51a7d",
+      "C": "028a39923453b679963ef4e6763dea7948cb5a6e803d4c5fa0fa13303121b16f13"
+    },
+    "eID_enc": {
+      "R": "034f9d8d39e06061a763e8f580021a268f049cf6ccbb78b1c67194dab1a55b8df9",
+      "C": "03ffaa127c1b6749bed8c13d44be85fe483eb6d9f584d9bc83dc5d8bd058325971"
+    },
+    "vote_enc": {
+      "R": "02c0caea6592a0c24b43bb7b502693c575dc2a26fb4d76b9de7c788b9c52daca4c",
+      "C": "0344a6e82f43ee663132b2fc361301606b60683a88249546b4afcec14da755d99c"
+    }
+  },
+  {
+    "color_enc": {
+      "R": "0332bcce0d1eab65451ca0452477112efb47d229aeab1e87ca4e4b67cfebbfacee",
+      "C": "020f6b649d0d75e1e2f2bbc19b0bf1cc9de4a374c18562707b67a844f54422af81"
+    },
+    "eID_enc": {
+      "R": "02472a6d76fd4deec20910d4e9280758cd7638df5c2b3bbd5e264da78c72085790",
+      "C": "02554b248cec359ebeee8c5f715f3a1691caf66243b0d34776dea9e8b6f43a1fec"
+    },
+    "vote_enc": {
+      "R": "023f085e722ea561c946391525bbd5131ab2d1f6438e41d4d9dce370586fb6ebbf",
+      "C": "023ab3183bbcb201ea4552edb505449b0847d1e1cf35a0dc8ccec5ce0da15e6b96"
+    }
+  },
+  {
+    "color_enc": {
+      "R": "02ba3bf3634997eed60b30476b341454169285e818007f189a23e65cd65ffe3ae2",
+      "C": "02c23755c70a0c16f76323931c738251cc002544858806770aa7113bed0d4b4881"
+    },
+    "eID_enc": {
+      "R": "02b052307cc65a462fcc672f1fd9d37bcc6194bdae9c6eeb702e44dfdfe81b311e",
+      "C": "02750c9abff084a0301b5a614f818ed35c5f0fdccad91217d790c8c903722415fd"
+    },
+    "vote_enc": {
+      "R": "034444dd6c7f17cf1a95e1873b3316282efa97f39f64b5eeffb4c339274453394d",
+      "C": "029e4da73e873b25cd71689762ceb04decd7e78c09632e5df41eb81c4beee51a7a"
+    }
+  },
+  {
+    "color_enc": {
+      "R": "02964c0dc230a0de93294e5674facc5816833582c8ce06c17f602676507f9f15c2",
+      "C": "0226745d8ed228cb039d8543c374fe569302d0941ccc8fd32d95ee42afc5d0d10a"
+    },
+    "eID_enc": {
+      "R": "032fee44d5031ba0ffc4ea9f6351dfe9f80427a4fed344cc241dd207d3fc7bccb7",
+      "C": "0265b708062d567b9786f81ee9f42e6545144c0e56404df05d4b752f85c3b0387c"
+    },
+    "vote_enc": {
+      "R": "02460dafabf940066b912036d00e643ed42e81cf329f61df1303eb2f4b26d58d80",
+      "C": "02cfab748c4638f843b00267b614b1597bf086f86531d033481bcb9de583cb72d3"
+    }
+  }
+]
