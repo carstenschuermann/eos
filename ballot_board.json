@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "color_enc": {
+      "R": "039a8049134ed6216e2f68a1777309f1744ec5d33cf61df14f3af24d839506ed3c",
+      "C": "025844407762e1ed12039eda84855105ba3a7c724f613ee0ca047d78429fbd52a1"
+    },
+    "eID_enc": {
+      "R": "029efaf5d7c7ab7e7d94d09176e5f89d7c23c9ab05fa170d1118f38dbd73b9d5cc",
+      "C": "02197cb3fca1a0be9c82859356ede7456f7b8fa5b2f414e92807bf812f63343c26"
+    },
+    "vote_enc": {
+      "R": "030bc06952e82600d2e9086914465528cdbbbe12a88ee56806e7dd9bbe32d6a940",
+      "C": "024dbabeddeafa897ca0e986b1fc80932700e97f75f804512f9b16bbfba9c1a757"
+    }
+  },
+  {
+    "color_enc": {
+      "R": "028c29f1595c839b1d2144cce8c936b2921df37a47744d8f81e1d48880b0315854",
+      "C": "029c4f999af8666ceead3bf1fb8a0d78d163fbe1b66b41f805505c81963bb59469"
+    },
+    "eID_enc": {
+      "R": "03444bd591debc833f958d1e2c260ee181452c3d5d0a5b46611f85f4b9274d05e6",
+      "C": "03bd5512866cc0510f003e619acb634028d08b94e2588d479f58364611b4e06600"
+    },
+    "vote_enc": {
+      "R": "02ed833fb51afa8f15400ed4f56fc32ca34cb026832d45952cc6b0c41e80d0437c",
+      "C": "031f3f1bca337528a307a56a73611d478a8ad2c80be341e7dc065e3231f43e1733"
+    }
+  },
+  {
+    "color_enc": {
+      "R": "03f1a26adb94f553487b6a2dba714de427f2cc7b92740c5262acba5b8617306859",
+      "C": "031aaa9cfc59032578aba98dd2c2420fa18bed35492b7f0cbf9b08b9f925bce4a4"
+    },
+    "eID_enc": {
+      "R": "027ec4d122debd8132315aae477b35d539d04aadad0466e2ce6bcf6a387c81672d",
+      "C": "02cb7c7e95db9001a9c2d1a52a4329b7dd7ba7bd1ead3bd7a736b01f29c31948a6"
+    },
+    "vote_enc": {
+      "R": "03aacb711d47ac2b616e31a2cfac71198a21993c9bab6a436641b3f1e9f44f497b",
+      "C": "03e1691c2727682519ec3445d5b75e29eb61fec3e23c57661020601f10c4fb7a31"
+    }
+  },
+  {
+    "color_enc": {
+      "R": "037194f0e4e11dfe846e683a24f3073eca8a7bfb046652df457dbcdac6d53bca8d",
+      "C": "026c4c4fff539788a50c4031924a645793bd0556937b6c0a0e61d81b861b4c6be8"
+    },
+    "eID_enc": {
+      "R": "03ca16681658d11420c2a792de6e3581936323b1d66f5f0aab64d5672ae8266fe3",
+      "C": "024490005d6a79aafb2c4e7f360d1d37c9a8aa60c05e996262153db116d454b0a5"
+    },
+    "vote_enc": {
+      "R": "0382f45f1b0373d039a1634839d4ab1921aa36480e02682b68787e16860c03f272",
+      "C": "02ca9153c809237f96c603a4ca580cabc7d05d026f9ffeb7fd2b79458204617998"
+    }
+  }
+]
