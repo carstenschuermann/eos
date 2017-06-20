@@ -44,5 +44,51 @@
       "challenge": "8310de096fe0d0c1b956e2f0241a8ec7eb4af468f58f39b27a0d33225e786d3a",
       "response": "cab85585590a5ba4c95ebca49081c9a6b91b20435a68a95a4e102778e442ce28"
     }
+  },
+  {
+    "ballot": {
+      "color_enc": {
+        "R": "03f1a26adb94f553487b6a2dba714de427f2cc7b92740c5262acba5b8617306859",
+        "C": "031aaa9cfc59032578aba98dd2c2420fa18bed35492b7f0cbf9b08b9f925bce4a4"
+      },
+      "eID_enc": {
+        "R": "027ec4d122debd8132315aae477b35d539d04aadad0466e2ce6bcf6a387c81672d",
+        "C": "02cb7c7e95db9001a9c2d1a52a4329b7dd7ba7bd1ead3bd7a736b01f29c31948a6"
+      },
+      "vote_enc": {
+        "R": "03a713a5813fb856f7ea942692d8699889ab8a640236046afdfefc29d6a0b49861",
+        "C": "0322fce2aeda992b4ff2436615b7eb90bd93adea779312f11ba1f75829e1f72ab3"
+      }
+    },
+    "sigma": {
+      "c1": "01ed85284d318d4907bdc3fa33b904008ed64627abc02afc1063b3848dafc64b",
+      "s": [
+        "438b730480dd7d3cb3e84634e21e8859ebfcf8fe2d80fd09ba385fea6afd2a5f",
+        "121caade12ec9149cad558c373a0f47a80f6610e0dd7e0a4e75e422bd59b6f8f",
+        "c52c549b9eb49f8940f7bba59a2b3043928895682832d9511a72e9825f31d7b8",
+        "c0660cb8d32204fd4b60fc4fab8321f96350ed64db08e7c9cb876f7445aa9478",
+        "b2377fa0467a256b28848076dd8abc4cdcf1c3fb8572bacc9a29ba9dcea361c3",
+        "02c8f9af75f3d83eb2ed404b948f92c72fb1d91ceb87a2a5c3797ebf123df68c",
+        "0dd7ecc78ffaed5fe6789a505cd56d5d53558eb6abc905a3f6b0df69a96bab4c",
+        "690e740fe050caff2b1aedab3627e08dd3f50023d69267c7396949ad12dbfaab",
+        "6cbee9d169c0b7caa1aec314cba05b41c140ddaedb4babfe2472b09a38ec8c70",
+        "f2f22e77d25a5281178ccb4438f9b3b49124614cba286719f11cc6816d81d843",
+        "db6d536728b5d0473ceeb559bf34c97d410b273face8a7d00582f55b2580c6c3",
+        "ff6f3a391d1395d8b7ced414cd7d2f35c983790f714dbd4e240b58a3fb845982",
+        "893b92eacf7c06667c530677fc058d8fef31544c508eebd4e36773a802d2923c",
+        "847bd0e7e44d66a103633c1915ee4a1ecb72a8aea1cb16b352aeb8f8739e2baf"
+      ]
+    },
+    "PK_correct_enc": {
+      "commitment1": "0331b324579bcfb52bfe2e5443b530ef093ba4690f722eaa35946023c1feccbbf5",
+      "commitment2": "02e75c42e34556042dc8dc998f9783b8bf07a555e485ecc153c90e256da32cebe5",
+      "challenge": "2c1dd1e2b7e59910978d32a31aefb20a6cbe18969dd966ce75ab7bc6cf010160",
+      "response": "16f9ef87a89f1d982b377ae84ed17c9ed16e9f4811d2faedcaefd24c0a29d08f"
+    },
+    "PK_vote": {
+      "commitment": "0333558529e6b8a8311c8f91012b1bc957edd3c67b6819ea9a9cb8ff4c4d2d42f6",
+      "challenge": "44a499ec7e1d0af4afd25b481618b07b1c1d1459610bd8cd81d208e6c1b0b3dc",
+      "response": "3c164eb4dfb5cdbe07ef1443790b1c920154e80f518f5529da53f5b0b9f811ab"
+    }
   }
 ]
